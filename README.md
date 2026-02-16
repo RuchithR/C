@@ -8,7 +8,7 @@ Random project that came to my mind to practice C programming.
 - **Split option** when first two cards match (basic casino rule simulation)
 - Random dealer score (16-20) for quick playtesting
 ## How to Play
-1. Compile: `gcc blackjack.c -o blackjack -lm`
+1. Compile: `gcc Blackjack.c -o blackjack -lm`
 2. Run: `./blackjack`
 3. Follow prompts:
    - Enter `y`/`Y` to **hit**, `n`/`N` to **stand**
